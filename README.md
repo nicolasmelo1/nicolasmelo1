@@ -1,7 +1,7 @@
 # Nicolas Leal
 
 ### If you are coming here by parachute on my profile let me explain how to do this
-- create a new repo with the same name as your profile. The instructions should appear on the screen.
+- Create a new repo with the same name as your profile. The instructions should appear on the screen.
 
 #### So let's go by myself: 
 I'm the only developer of [Reflow](www.reflow.com.br) working full time right now. I've created it from the ground up using technologies like:
