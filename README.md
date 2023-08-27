@@ -40,7 +40,7 @@ Anyway, i always though engineering was my thing, but for some reason i got into
 Silly me, in all ways. After 4 years i started a graduation in Marketing, same university. When i started my graduation i knew that i needed a job. What job i got? A job in 99 (that was later acquired by DIDI), the first unicorn in Brazil, in an area called Marketing Analytics.
 
 
-## Now we get to the fun part about my work, take a seat 🪑, eat a snack 🌯 then let's continue.
+## Now we get to the fun part about my work, take a seat, eat a snack and then let's continue 📜
 
 Are you hydrated? Do you feel comfortable? Cool.
 
