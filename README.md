@@ -6,8 +6,8 @@ Welcome to my little and private place called *my github*. I know it's a little 
 
 Summary:
 - [A little bit about myself, how i was always curious, and that i always enjoyed building stuff](https://github.com/nicolasmelo1/nicolasmelo1/edit/master/README.md#oh-how-rude-of-me-i-didnt-even-got-to-introduce-myself-)
-- [About college, education and all that] (https://github.com/nicolasmelo1/nicolasmelo1/edit/master/README.md#oh-how-rude-of-me-i-didnt-even-got-to-introduce-myself-)
-
+- [About college, education and all that](https://github.com/nicolasmelo1/nicolasmelo1/blob/master/README.md#youre-not-curious-by-my-infant-years-sorry-about-that-)
+- [How i got into programming and early carreer]()
 
 ## Oh, how rude of me, i didn't even got to introduce myself 🥹
 
@@ -38,6 +38,7 @@ Anyway, i always though engineering was my thing, but for some reason i got into
 - "I need to study for exams and i also need to study outside what college already asks for me in order to find a job? Why doesn't college teach me this new framework to find a job?"
 
 Silly me, in all ways. After 4 years i started a graduation in Marketing, same university. When i started my graduation i knew that i needed a job. What job i got? A job in 99 (that was later acquired by DIDI), the first unicorn in Brazil, in an area called Marketing Analytics.
+
 
 ## Now we get to the fun part about my work, take a seat 🪑, eat a snack 🌯 then let's continue.
 
