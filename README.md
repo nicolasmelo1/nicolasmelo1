@@ -24,6 +24,7 @@ Things i tried to do while discovering myself and what i really enjoyed:
 - [Music Production](https://soundcloud.com/norcpop)
 - [3D modeling/Video Production](https://www.youtube.com/@Nicolasmelo12)
 
+
 ## You're not curious by my infant years? Sorry about that. 😖
 
 It's always fun how your life tricks you and changes in ways you didn't expect, doesn't it?
